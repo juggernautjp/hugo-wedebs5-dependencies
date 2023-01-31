@@ -1,4 +1,4 @@
-module gitlab.com/writeonlyhugo/hugo-module-bootstrap
+module github.com/juggernautjp/hugo-widebs5-dependencies
 
 go 1.17
 
