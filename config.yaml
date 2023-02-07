@@ -14,4 +14,6 @@ module:
           target: "assets/bootstrap/scss"
         - source: "js"
           target: "assets/bootstrap/js"
+        - source: "dist"
+          target: "static/bootstrap"
     - path: "github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2"
