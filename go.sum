@@ -26,3 +26,5 @@ github.com/twbs/bootstrap v5.3.0-alpha1.0.20230321131824-7d0380520570+incompatib
 github.com/twbs/bootstrap v5.3.0-alpha1.0.20230321131824-7d0380520570+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
 github.com/twbs/bootstrap v5.3.0-alpha1.0.20230322082417-b3faa0cfac12+incompatible h1:ffM2J9XhQSvJ26K96+OpuSUtDPpg4dUUBwZRbuKJF20=
 github.com/twbs/bootstrap v5.3.0-alpha1.0.20230322082417-b3faa0cfac12+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.0-alpha1.0.20230323123124-aadfe7edce1a+incompatible h1:JZ8/rpaTmtl0nN8RfWjuvU16qtNilaUr2W9P8H3DEus=
+github.com/twbs/bootstrap v5.3.0-alpha1.0.20230323123124-aadfe7edce1a+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
